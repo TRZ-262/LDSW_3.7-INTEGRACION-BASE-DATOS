@@ -1,0 +1,5 @@
+package com.pelis.catalogo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

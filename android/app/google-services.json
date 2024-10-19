@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300141572484",
+    "project_id": "catalogo-58d63",
+    "storage_bucket": "catalogo-58d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300141572484:android:8b968d217424051995edd1",
+        "android_client_info": {
+          "package_name": "com.pelis.catalogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRDlxip0q9eJMwA6eA0zh6MCtTvsBdNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
